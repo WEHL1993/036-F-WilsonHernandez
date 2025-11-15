@@ -53,8 +53,12 @@ const stacks = [
 
 export default function AcercaDe() {
   return (
-    <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-6 text-center">
-      {stacks.map((stack, i) => (
+    <div className="space-y-8">
+      <h2 className="text-3xl font-bold text-center text-blue-700">
+        Stack Utilizado en el Proyecto
+      </h2>
+      <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-6 text-center">
+        {stacks.map((stack, i) => (
         <motion.div
           key={stack.name}
           initial={{ opacity: 0, y: 40 }}
@@ -67,6 +71,7 @@ export default function AcercaDe() {
           <p className="font-semibold">{stack.name}</p>
         </motion.div>
       ))}
+      </div>
     </div>
   );
 }
