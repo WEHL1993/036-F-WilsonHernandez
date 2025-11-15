@@ -2,10 +2,15 @@
 
 Una aplicación web moderna para explorar y descubrir cocteles de todo el mundo, consumiendo la API de [TheCocktailDB](https://www.thecocktaildb.com/).
 
+[![Netlify Status](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ephemeral-creponne-1e6622.netlify.app)
 ![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7.2.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.17-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 🌐 Demo en Vivo
+
+**[Ver aplicación desplegada](https://ephemeral-creponne-1e6622.netlify.app)** 🚀
 
 ## 📋 Descripción
 
